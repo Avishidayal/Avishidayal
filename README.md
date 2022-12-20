@@ -20,9 +20,6 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://img.shields.io/badge/-java-FBBA00?logo=java35&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-python-3776AB?logo=python&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-Node.js-339933?logo=Node.js&logoColor=fff)
-![GitHub Stats](https://img.shields.io/badge/-Mysql-4479A1?logo=Mysql35&logoColor=fff)
-![GitHub Stats](https://img.shields.io/badge/-React-61DAFB?logo=React&logoColor=fff)
-![GitHub Stats](https://img.shields.io/badge/-MongoDB-47A248?logo=MongoDB&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-PHP-777BB4?logo=PHP&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-Expressjs-4B5562?logo=Express.js&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-JSON-8BC0D0?logo=JSON&logoColor=fff)
@@ -30,19 +27,19 @@ Here are some ideas to get you started:
 ![GitHub Stats](https://img.shields.io/badge/-Flutter-02569B?logo=Flutter&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-Apache-D22128?logo=Apache&logoColor=fff)
 ![GitHub Stats](https://img.shields.io/badge/-Bootstrap-7952B3?logo=Botstrap&logoColor=fff)
-![GitHub Stats](https://img.shields.io/badge/-Tailwind-06B6D4?logo=Tailwind&logoColor=fff)
+
 # 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Avishidayal&theme=radical&hide_border=false&include_all_commits=true&count_private=true)<br/>
-![](https://github-readme-streak-stats.herokuapp.com/?user=Avishidayal&theme=radical&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishidayal&theme=radical&_border=false&include_all_commits=true&count_private=true&layout=compact)
+![](https://github-readme-stats.vercel.app/api?username=Avishidayal&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=Avishidayal&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Avishidayal&theme=dark&_border=false&include_all_commits=true&count_private=true&layout=compact)
 
 ## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Avishidayal&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+![](https://github-profile-trophy.vercel.app/?username=Avishidayal&theme=dark&no-frame=false&no-bg=true&margin-w=4)
 
 <!--START_SECTION:waka-->
 
 ```text
-Python   3 hrs 58 mins    █████████████████████████   100.00 %
+Python   1 hrs 48 mins    █████████████████████████   100.00 %
 ```
 
 <!--END_SECTION:waka-->
